@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>[Jiwen Lu](http://ivg.au.tsinghua.edu.cn/Jiwen_Lu/) on Yongcheng Liu&#39;s Homepage</title>
+    <link>https://yochengliu.github.io/authors/jiwen-luhttp/ivg.au.tsinghua.edu.cn/jiwen_lu/</link>
+    <description>Recent content in [Jiwen Lu](http://ivg.au.tsinghua.edu.cn/Jiwen_Lu/) on Yongcheng Liu&#39;s Homepage</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 23 Jul 2019 00:00:00 +0800</lastBuildDate>
+    
+	<atom:link href="https://yochengliu.github.io/authors/jiwen-luhttp/ivg.au.tsinghua.edu.cn/jiwen_lu/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>DensePoint: Learning Densely Contextual Representation for Efficient Point Cloud Processing</title>
+      <link>https://yochengliu.github.io/publication/5-conference_iccv2019/</link>
+      <pubDate>Tue, 23 Jul 2019 00:00:00 +0800</pubDate>
+      
+      <guid>https://yochengliu.github.io/publication/5-conference_iccv2019/</guid>
+      <description>&lt;strong&gt;&lt;em&gt;&lt;font size=4&gt;ICCV 2019&lt;/font&gt;&lt;/em&gt;&lt;/strong&gt; &lt;strong&gt;&lt;em&gt;(&lt;font size=4 color=#FF4500&gt;CCF A&lt;/font&gt;)&lt;/em&gt;&lt;/strong&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

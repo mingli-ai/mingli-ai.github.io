@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>[Bin Fan](http://www.nlpr.ia.ac.cn/fanbin/) on Yongcheng Liu&#39;s Homepage</title>
+    <link>https://yochengliu.github.io/authors/bin-fanhttp/www.nlpr.ia.ac.cn/fanbin/</link>
+    <description>Recent content in [Bin Fan](http://www.nlpr.ia.ac.cn/fanbin/) on Yongcheng Liu&#39;s Homepage</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 17 Sep 2017 00:00:00 +0800</lastBuildDate>
+    
+	<atom:link href="https://yochengliu.github.io/authors/bin-fanhttp/www.nlpr.ia.ac.cn/fanbin/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Context-Aware Cascade Network for Semantic Labeling in VHR Image</title>
+      <link>https://yochengliu.github.io/publication/1-conference_icip2017/</link>
+      <pubDate>Sun, 17 Sep 2017 00:00:00 +0800</pubDate>
+      
+      <guid>https://yochengliu.github.io/publication/1-conference_icip2017/</guid>
+      <description>&lt;strong&gt;&lt;em&gt;&lt;font size=4&gt;ICIP 2017&lt;/font&gt;&lt;/em&gt;&lt;/strong&gt; &lt;strong&gt;&lt;em&gt;&lt;font size=4 color=#FF4500&gt;Oral&lt;/font&gt;&lt;/em&gt;&lt;/strong&gt; &lt;strong&gt;&lt;em&gt;(&lt;font size=4 color=#FF4500&gt;CCF C&lt;/font&gt;)&lt;/em&gt;&lt;/strong&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

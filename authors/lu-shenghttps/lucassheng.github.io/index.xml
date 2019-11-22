@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>[Lu Sheng](https://lucassheng.github.io/) on Yongcheng Liu&#39;s Homepage</title>
+    <link>https://yochengliu.github.io/authors/lu-shenghttps/lucassheng.github.io/</link>
+    <description>Recent content in [Lu Sheng](https://lucassheng.github.io/) on Yongcheng Liu&#39;s Homepage</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 22 Oct 2018 00:00:00 +0800</lastBuildDate>
+    
+	<atom:link href="https://yochengliu.github.io/authors/lu-shenghttps/lucassheng.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Multi-Label Image Classification via Knowledge Distillation from Weakly-Supervised Detection</title>
+      <link>https://yochengliu.github.io/publication/3-conference_mm2018/</link>
+      <pubDate>Mon, 22 Oct 2018 00:00:00 +0800</pubDate>
+      
+      <guid>https://yochengliu.github.io/publication/3-conference_mm2018/</guid>
+      <description>&lt;strong&gt;&lt;em&gt;&lt;font size=4&gt;ACM Multimedia 2018&lt;/font&gt;&lt;/em&gt;&lt;/strong&gt; &lt;strong&gt;&lt;em&gt;(&lt;font size=4 color=#FF4500&gt;CCF A&lt;/font&gt;)&lt;/em&gt;&lt;/strong&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

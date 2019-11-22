@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>[Lingfeng Wang](https://scholar.google.com/citations?user=PaRak2AAAAAJ&amp;hl=en) on Yongcheng Liu&#39;s Homepage</title>
+    <link>https://yochengliu.github.io/authors/lingfeng-wanghttps/scholar.google.com/citationsuserparak2aaaaajhlen/</link>
+    <description>Recent content in [Lingfeng Wang](https://scholar.google.com/citations?user=PaRak2AAAAAJ&amp;hl=en) on Yongcheng Liu&#39;s Homepage</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 15 Dec 2017 00:00:00 +0800</lastBuildDate>
+    
+	<atom:link href="https://yochengliu.github.io/authors/lingfeng-wanghttps/scholar.google.com/citationsuserparak2aaaaajhlen/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Semantic Labeling in Very High Resolution Images via A Self-Cascaded Convolutional Neural Network</title>
+      <link>https://yochengliu.github.io/publication/2-journal_jprs2018/</link>
+      <pubDate>Fri, 15 Dec 2017 00:00:00 +0800</pubDate>
+      
+      <guid>https://yochengliu.github.io/publication/2-journal_jprs2018/</guid>
+      <description>&lt;strong&gt;&lt;em&gt;&lt;font size=4&gt;ISPRS JPRS 2017&lt;/font&gt;&lt;/em&gt;&lt;/strong&gt; &lt;strong&gt;&lt;em&gt;(&lt;font size=4 color=#FF4500&gt;SCI Top, IF=6.387&lt;/font&gt;)&lt;/em&gt;&lt;/strong&gt;</description>
+    </item>
+    
+    <item>
+      <title>Context-Aware Cascade Network for Semantic Labeling in VHR Image</title>
+      <link>https://yochengliu.github.io/publication/1-conference_icip2017/</link>
+      <pubDate>Sun, 17 Sep 2017 00:00:00 +0800</pubDate>
+      
+      <guid>https://yochengliu.github.io/publication/1-conference_icip2017/</guid>
+      <description>&lt;strong&gt;&lt;em&gt;&lt;font size=4&gt;ICIP 2017&lt;/font&gt;&lt;/em&gt;&lt;/strong&gt; &lt;strong&gt;&lt;em&gt;&lt;font size=4 color=#FF4500&gt;Oral&lt;/font&gt;&lt;/em&gt;&lt;/strong&gt; &lt;strong&gt;&lt;em&gt;(&lt;font size=4 color=#FF4500&gt;CCF C&lt;/font&gt;)&lt;/em&gt;&lt;/strong&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
